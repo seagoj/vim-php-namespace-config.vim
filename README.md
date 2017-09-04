@@ -1,5 +1,5 @@
 # vim-php-namespace.vim
-My Uvim-php-namesapce configuration deployable with Vundle/Pathogen/vim-plug.
+My vim-php-namesapce configuration deployable with Vundle/Pathogen/vim-plug.
 
 ## Requirements
 
